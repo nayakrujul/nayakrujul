@@ -2,8 +2,8 @@
 
 ### Github
 
-[Stats](https://github-readme-stats.vercel.app/api?username=nayakrujul&hide_rank=true&hide=issues,contribs&theme=onedark&include_all_commits=true)
-[Tropies](https://github-profile-trophy.vercel.app/?username=nayakrujul&rank=SSS,SS,S,AAA,AA,A&theme=onestar)
+![Stats](https://github-readme-stats.vercel.app/api?username=nayakrujul&hide_rank=true&hide=issues,contribs&theme=onedark&include_all_commits=true)
+![Tropies](https://github-profile-trophy.vercel.app/?username=nayakrujul&rank=SSS,SS,S,AAA,AA,A&theme=onestar)
 
 ### Stack Exchange
 
