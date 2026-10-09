@@ -3,7 +3,8 @@
 ### Github
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nayakrujul&hide_rank=true&hide=issues,contribs&theme=onedark)
-![Tropies](https://github-profile-trophy.vercel.app/?username=nayakrujul&rank=SSS,SS,S,AAA,AA,A&theme=onestar)
+
+![Trophies](https://github-trophies.vercel.app/?username=nayakrujul&rank=SSS,SS,S,AAA,AA,A&theme=onedark)
 
 ### Stack Exchange
 
